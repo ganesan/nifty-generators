@@ -1,4 +1,4 @@
-= Nifty Generators
+= Ganesan Nifty Generators
 
 A collection of useful Rails generator scripts.
 
